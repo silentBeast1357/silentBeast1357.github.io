@@ -1,0 +1,32 @@
+body{
+    background-color: #544E61;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.profile{
+    background-color: #6E8894;
+    padding: 20px;
+    border-radius: 20px;
+    display: flex;
+}
+.profile > img {
+    border-radius: 20px;
+}
+.profile > h1 {
+    margin: 50px 0 0 50px;
+}
+
+.description {
+    background-color: #85BAA1; 
+    height: 100%;
+    margin-top: 10px;
+    border: solid #6E8894 10px;
+    border-radius: 20px;
+    font-size: 50px;
+    padding-left: 10px;
+}
+
+html, body {
+    height: 100%;
+}
