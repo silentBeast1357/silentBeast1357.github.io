@@ -10,11 +10,17 @@ body{
     border-radius: 20px;
     display: flex;
 }
-.profile > img {
-    border-radius: 20px;
+.profile img {
+    border-radius: 100px;
 }
 .profile > h1 {
     margin: 50px 0 0 50px;
+}
+
+.imageBorder {
+    background-color: #85BAA1; 
+    border-radius: 10px;
+    padding: 5px;
 }
 
 .description {
